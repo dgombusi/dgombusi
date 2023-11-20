@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dgombusi
-- 🌱 I’m currently a Network & GSM Pentester
-- 👀 I’m interested in Network RADIO PENETRATION TESTING 
+- 🌱 I’m currently a Computer network & GSM network Pentester
+- 👀 I’m interested in Network & RADIO PENETRATION TESTING 
 - 💞️ I’m looking to collaborate on anything related with Network engineering, Radio Frequency, Cyber Security, Sigtran etc
-- 📫 How to reach me dm me at twitter.com/dgombusi
+- 📫 How to reach me dm me at https://twitter.com/dgombusi
 
 <!---
 dgombusi/dgombusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
